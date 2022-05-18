@@ -1,3 +1,7 @@
+
+
+print("Given two integer numbers return their product only if the product is greater than 1000, else return their sum.")
+
 def myCal(num1, num2):
     product =num1 * num2
     if product <= 1000:
